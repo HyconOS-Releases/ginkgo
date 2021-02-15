@@ -1,1 +1,12 @@
--Initial Build
+## Changelog for Redmi Note 8/8T (Ginkgo/Willow)
+- Updated redfin fp/desc to Feb. 2021.
+- Fixed APN issue.
+- Kernel upstreamed to 4.14.221.
+- Added MIUI cam.
+- Updated display stack from  LA.UM.9.11.r1-02600-NICOBAR.0
+- Switched to pixel charger animation.
+- Fine tuned notch cutout.
+- Upgraded to Miui R blobs (21.2.3).
+- Switched to QTI BT.
+- Set fast charging indicator threshold to 10.8W.
+- Some performance tune ups.
