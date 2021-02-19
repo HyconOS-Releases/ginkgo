@@ -5,4 +5,4 @@
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/Redmi-Note8-8T/V1.5/total.svg)](https://GitHub.com/Hycon-Releases/Redmi-Note8-8T/releases)
 
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/Redmi-Note8-8T/V1.0/total.svg)](https://GitHub.com/Hycon-Releases/Redmi-Note8-8T/releases)
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/Redmi-Note8-8T/V1.0_Aureus/total.svg)](https://GitHub.com/Hycon-Releases/Redmi-Note8-8T/releases)
