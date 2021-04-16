@@ -1,5 +1,14 @@
 ## Changelog for Redmi Note 8/8T (Ginkgo/Willow)
 
+## April changelog (16-04-2020)
+* Updated redfin fp/desc to april
+* Imported new Xiaomi Parts
+* Added MiCam Watermark for Hycon Os
+* Upstreamed QS kernel kernel to V4.14.230
+* Fast charging on chinese variants maybe fixed
+* Merged pie chromatix libs for better cam quality
+
+## March changelog (28-03-2020)
 * Switched to redfin march 2021 fp
 * Kernel upstreamed to 227
 * Switched to pixel charger animation
