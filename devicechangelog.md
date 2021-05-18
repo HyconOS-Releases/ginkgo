@@ -1,5 +1,26 @@
 ## Changelog for Redmi Note 8/8T (Ginkgo/Willow)
 
+## May changelog (18-05-2020
+* Switched to dipper fp
+* Updated blobs to MIUI 21.4.28
+* Set up/down_rate_limit_us to 1000us
+* Updated CAF blobs from LA.UM.9.11.r1-03200-NICOBAR.0
+* Updated WifiOverlay from LA.UM.9.1.r1-09100-SMxxx0.0
+* Updated auto brightness configuration from stock
+* Switched to oss perf hal
+* Lower little cluster min freq to 864Mhz
+* Enable conservative pl boosting
+* Sync scroll boost freqs with CPU input boost
+* Tune perfboostsconfig for performance
+* Import QTI perf configs from stock
+* Fixed 5ghz wifi issue with a11 fw
+* Fixed Gphotos "Device is too hot" issue
+* Kernel upstreamed to 232
+* Merged LA.UM.9.1.r1-09600-SMxxx0.0 CAF tags
+* Added compat (32bit) vdso
+* Added CPU input and Devfreq boosts
+* Added kernel space battery saver
+
 ## April changelog (16-04-2020)
 * Updated redfin fp/desc to april
 * Imported new Xiaomi Parts
