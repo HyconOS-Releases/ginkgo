@@ -2,16 +2,18 @@
 
 *DOWNLOAD COUNT BY VERSION BELOW*
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/Redmi-Note8-8T/V3.0/total.svg)](https://GitHub.com/Hycon-Releases/Redmi-Note8-8T/releases)
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/ginkgo/V3.5/total.svg)](https://GitHub.com/Hycon-Releases/ginkgo/releases)
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/ginkgo/V3.0/total.svg)](https://GitHub.com/Hycon-Releases/ginkgo/releases)
 
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/Redmi-Note8-8T/V2.5/total.svg)](https://GitHub.com/Hycon-Releases/Redmi-Note8-8T/releases)
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/ginkgo/V2.5/total.svg)](https://GitHub.com/Hycon-Releases/ginkgo/releases)
 
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/Redmi-Note8-8T/V2.0/total.svg)](https://GitHub.com/Hycon-Releases/Redmi-Note8-8T/releases)
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/ginkgo/V2.0/total.svg)](https://GitHub.com/Hycon-Releases/ginkgo/releases)
 
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/Redmi-Note8-8T/V1.5/total.svg)](https://GitHub.com/Hycon-Releases/Redmi-Note8-8T/releases)
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/ginkgo/V1.5/total.svg)](https://GitHub.com/Hycon-Releases/ginkgo/releases)
 
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/Redmi-Note8-8T/V1.0_Aureus/total.svg)](https://GitHub.com/Hycon-Releases/Redmi-Note8-8T/releases)
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/ginkgo/V1.0_Aureus/total.svg)](https://GitHub.com/Hycon-Releases/ginkgo/releases)
