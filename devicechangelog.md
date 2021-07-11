@@ -1,6 +1,17 @@
-## Changelog for Redmi Note 8/8T (Ginkgo/Willow)
+## Changelogs for Redmi Note 8/8T (Ginkgo/Willow)
 
-## May changelog (18-05-2020
+## July changelog (11-07-2021)
+* Updated stock blobs from MIUI 21.7.5
+* Updated CAF blobs from LA.UM.9.11.r1-03900-NICOBAR.0
+* Kernel upstreamed to 4.14.238
+* Fixed tiktok, QQ and other apps crash due to vulkan
+* Fixed magisk issue with some banking apps
+* Added LED indicator for offline charging
+* Reduce schedtune boosting for lesser heat
+* Freed some RAM from useless virtual framebuffer
+* Switched to QTI health implementation
+
+## May changelog (18-05-2020)
 * Switched to dipper fp
 * Updated blobs to MIUI 21.4.28
 * Set up/down_rate_limit_us to 1000us
