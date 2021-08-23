@@ -2,6 +2,10 @@
 
 *DOWNLOAD COUNT BY VERSION BELOW*
 
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/ginkgo/V4.5/total.svg)](https://GitHub.com/Hycon-Releases/ginkgo/releases)
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/ginkgo/V4.0/total.svg)](https://GitHub.com/Hycon-Releases/ginkgo/releases)
+
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/ginkgo/V3.5/total.svg)](https://GitHub.com/Hycon-Releases/ginkgo/releases)
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/ginkgo/V3.0/total.svg)](https://GitHub.com/Hycon-Releases/ginkgo/releases)
