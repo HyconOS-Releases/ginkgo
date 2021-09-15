@@ -1,5 +1,19 @@
 ## Changelogs for Redmi Note 8/8T (Ginkgo/Willow)
 
+## September changelog (15-09-2021)
+* Updated MIUI blobs from MIUI 12.0.2.0.RCOMIXM 
+* Updated CAF blobs from LA.UM.9.11.r1-04500-NICOBAR.0
+* Boost I/O during bootup to improve boot speed
+* Boost CPU during wake for faster faceunlock
+* Increased default f2fs checkpoint interval
+* Increased hispeed freq for big cluster
+* Disabled conservative PL boost
+* Reverted AOSP's old VM settings tweaks
+* Added hbm and cabc mode in xiaomiparts
+* Upstreamed kernel to v4.14.246
+* Relaxed GPU undervolt a bit
+* merged LA.UM.9.11.r1-04700-NICOBAR.0 caf tag
+
 ## July changelog (11-07-2021)
 * Updated stock blobs from MIUI 21.7.5
 * Updated CAF blobs from LA.UM.9.11.r1-03900-NICOBAR.0
